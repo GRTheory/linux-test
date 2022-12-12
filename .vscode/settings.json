@@ -1,6 +1,13 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
-        "common.h": "c"
+        "common.h": "c",
+        "assert.h": "c",
+        "stat.h": "c",
+        "tlpi_hdr.h": "c",
+        "errno.h": "c",
+        "string.h": "c",
+        "get_num.h": "c",
+        "error_functions.h": "c"
     }
 }
